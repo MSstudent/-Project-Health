@@ -10,4 +10,5 @@ OpenMS.一起俯卧撑
 未开始计数时单击图片可更换图片。
 
 SDK:WindowsPhone 7.1
+
 弹窗使用Coding4Fun，图表绘制使用Visifire(试用版)
