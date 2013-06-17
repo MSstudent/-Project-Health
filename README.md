@@ -1,7 +1,7 @@
 一起俯卧撑
 =================
 
-![Image text](http://github.com/MSstudent/-Project-Health/raw/master/sample.png)
+![Image text](http://github.com/MSstudent/-Project-Health/raw/master/sample.jpg)
 
 #项目简介
 
